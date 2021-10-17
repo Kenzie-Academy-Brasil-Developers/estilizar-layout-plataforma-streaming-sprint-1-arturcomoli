@@ -143,6 +143,7 @@ figcaption {
 	@media screen and (min-width: 1024px) {
 		div.pg-home ul {
 			flex-wrap: nowrap;
+			width: 858px;
 		}
 
 		header h2 {
